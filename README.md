@@ -1,6 +1,6 @@
 <h2 align="left">Hola, mi nombre es Javier y soy Programador, de Cuba.</h2>
 
-<span align="center">Habilidades</span>
+<h3 align="center">Habilidades</h3>
 ###
 
 <div align="left">
