@@ -1,7 +1,6 @@
 <h2 align="left">Hola, mi nombre es Javier y soy Programador, de Cuba.</h2>
 
 <h3 align="center">Habilidades</h3>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
